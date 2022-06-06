@@ -1,0 +1,10 @@
+Browser : chrome
+Chrome driver : webdriver.chrome.driver
+Driver location : C:\Users\mjkar\eclipse-workspace\Cucumber_adactin\Driver\chromedriver.exe
+Username  : ChrisGayle
+Password : Universeboss333
+Card number : 1234567891111111
+CVV number : 4545
+PageURL : http://adactinhotelapp.com/index.php
+
+
